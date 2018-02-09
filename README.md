@@ -48,9 +48,9 @@ git reset HEAD filename   //同上（没有delete记录）
 git stash     //暂时放弃未提交的修改
 git stash pop  //恢复
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/guoguoww/git-/blob/master/rm.png)
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/guoguoww/git-/blob/master/reset.png)
 
 〉分支操作
 
