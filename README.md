@@ -38,7 +38,6 @@ git remote add origin git@github.com:gitname/test.git       //添加
 此后就不用再输入用户名和密码了
 
 〉从远程clone项目
-
 git clone url
 〉放弃暂存区修改
 
@@ -48,6 +47,11 @@ git reset HEAD filename   //同上（没有delete记录）
 
 git stash     //暂时放弃未提交的修改
 git stash pop  //恢复
+
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
 〉分支操作
 
 /*查看分支*/
